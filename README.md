@@ -5,7 +5,7 @@
 编程语言: C
 课程学习: 计算机组成原理, 计算机网络, 汇编程序设计
 工具: Git, GitHub, Visual Studio Code
-邮箱
+ 邮箱
 1219049387@qq.com
 <!---
 12190-bit/12190-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
